@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled" targetName="untitled" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="deb32906-cbac-43b5-81c6-950bdf8192dd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XOivcJ1pSW6lAxqgb6wO2IzyOF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deb32906-cbac-43b5-81c6-950bdf8192dd" name="Default Changelist" comment="" />
+      <created>1580923772814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580923772814</updated>
+      <workItem from="1580923775268" duration="24000" />
+      <workItem from="1580934493728" duration="98000" />
+      <workItem from="1581014426092" duration="2868000" />
+      <workItem from="1581067577740" duration="7883000" />
+      <workItem from="1581158703172" duration="123000" />
+      <workItem from="1581158866546" duration="2085000" />
+      <workItem from="1581171474037" duration="986000" />
+      <workItem from="1581172686796" duration="4502000" />
+      <workItem from="1581185571682" duration="713000" />
+      <workItem from="1581242630683" duration="29000" />
+      <workItem from="1581244483311" duration="9933000" />
+      <workItem from="1581326444457" duration="1893000" />
+      <workItem from="1581328527011" duration="35000" />
+      <workItem from="1581328680512" duration="1365000" />
+      <workItem from="1581336115410" duration="3346000" />
+      <workItem from="1581348572699" duration="369000" />
+      <workItem from="1581349009260" duration="4298000" />
+      <workItem from="1581414040780" duration="3524000" />
+      <workItem from="1581419629977" duration="175000" />
+      <workItem from="1581430339599" duration="6718000" />
+      <workItem from="1581496819298" duration="3194000" />
+      <workItem from="1581501691231" duration="313000" />
+      <workItem from="1581502134913" duration="439000" />
+      <workItem from="1581540357650" duration="68000" />
+      <workItem from="1581540694178" duration="129000" />
+      <workItem from="1581540853085" duration="1307000" />
+      <workItem from="1581584826012" duration="6936000" />
+      <workItem from="1581607135816" duration="5337000" />
+      <workItem from="1581622980161" duration="3578000" />
+      <workItem from="1581670189620" duration="10733000" />
+      <workItem from="1581757635018" duration="17803000" />
+      <workItem from="1581865919263" duration="11994000" />
+      <workItem from="1581930945838" duration="2970000" />
+      <workItem from="1581953756939" duration="8443000" />
+      <workItem from="1582018921764" duration="24476000" />
+      <workItem from="1582101421689" duration="3991000" />
+      <workItem from="1582106354691" duration="325000" />
+      <workItem from="1582106886979" duration="2135000" />
+      <workItem from="1582126384866" duration="41000" />
+      <workItem from="1582126445187" duration="201000" />
+      <workItem from="1582126792565" duration="80000" />
+      <workItem from="1582127290365" duration="46000" />
+      <workItem from="1582127416472" duration="47000" />
+      <workItem from="1582127496701" duration="22000" />
+      <workItem from="1582127652455" duration="8000" />
+      <workItem from="1582127674785" duration="20000" />
+      <workItem from="1582128164372" duration="2301000" />
+      <workItem from="1582190872235" duration="3028000" />
+      <workItem from="1582194019675" duration="5199000" />
+      <workItem from="1582281316969" duration="1426000" />
+      <workItem from="1582357901723" duration="3519000" />
+      <workItem from="1582365803309" duration="1196000" />
+      <workItem from="1582450481440" duration="2098000" />
+      <workItem from="1582573860810" duration="7314000" />
+      <workItem from="1582708753100" duration="39000" />
+      <workItem from="1582708867654" duration="3675000" />
+      <workItem from="1582722308407" duration="11000" />
+      <workItem from="1582731310415" duration="2574000" />
+      <workItem from="1582793335567" duration="25883000" />
+      <workItem from="1582841960946" duration="108000" />
+      <workItem from="1582842129997" duration="935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['aggiornaaggiunta_72',['aggiornaAggiunta',['../apri_file_8c.html#a626a2ad7f4a7a81f707a4214769d07d5',1,'aggiornaAggiunta(POI vettore[], char nomeFile[]):&#160;apriFile.c'],['../apri_file_8h.html#a626a2ad7f4a7a81f707a4214769d07d5',1,'aggiornaAggiunta(POI vettore[], char nomeFile[]):&#160;apriFile.c']]],
+  ['aggiornaeliminazione_73',['aggiornaEliminazione',['../_libreria_ausilio_8c.html#af8cd66775b2c9526152c395ef3f39a7e',1,'aggiornaEliminazione(char nomeFile[], POI vettore[], int cellaEliminazione, int numPoi):&#160;LibreriaAusilio.c'],['../_libreria_ausilio_8h.html#af8cd66775b2c9526152c395ef3f39a7e',1,'aggiornaEliminazione(char nomeFile[], POI vettore[], int cellaEliminazione, int numPoi):&#160;LibreriaAusilio.c']]],
+  ['aggiornamodifica_74',['aggiornaModifica',['../_libreria_ausilio_8c.html#a142fbafcf30c56782bdc0276ae6759bd',1,'aggiornaModifica(char nomeFile[], POI vettore[], int numPoi):&#160;LibreriaAusilio.c'],['../_libreria_ausilio_8h.html#a142fbafcf30c56782bdc0276ae6759bd',1,'aggiornaModifica(char nomeFile[], POI vettore[], int numPoi):&#160;LibreriaAusilio.c']]],
+  ['aggiungipoi_75',['aggiungiPOI',['../apri_file_8c.html#a6588a85376935943c55ada7e5edaa0ab',1,'aggiungiPOI(char nomeFile[]):&#160;apriFile.c'],['../apri_file_8h.html#a6588a85376935943c55ada7e5edaa0ab',1,'aggiungiPOI(char nomeFile[]):&#160;apriFile.c']]],
+  ['aprictrlfile_76',['apriCtrlFile',['../apri_file_8c.html#a5c1c9d079c59795c3556f8e72a6d9c92',1,'apriCtrlFile(char *nomeFile, char *mode):&#160;apriFile.c'],['../apri_file_8h.html#a5c1c9d079c59795c3556f8e72a6d9c92',1,'apriCtrlFile(char *nomeFile, char *mode):&#160;apriFile.c']]],
+  ['aprifile_77',['apriFile',['../apri_file_8c.html#aeb4787c2cf23deeb327d3b4fe12ae930',1,'apriFile(char nomeFile[]):&#160;apriFile.c'],['../apri_file_8h.html#aeb4787c2cf23deeb327d3b4fe12ae930',1,'apriFile(char nomeFile[]):&#160;apriFile.c']]]
+];
